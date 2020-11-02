@@ -19,13 +19,3 @@ class Matrix():
             for row in summed:
                 print(*row)
 
-
-matrix_a = Matrix()
-matrix_a.get_dimensions()
-matrix_a.get_values()
-
-matrix_b = Matrix()
-matrix_b.get_dimensions()
-matrix_b.get_values()
-
-matrix_a.add_matrix(matrix_b)
