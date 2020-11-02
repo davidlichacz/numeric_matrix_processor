@@ -19,3 +19,8 @@ class Matrix():
             for row in summed:
                 print(*row)
 
+    def scalar_multiplication(self, c):
+        result = [[c * element for element in row] for row in self.values]
+        for row in result:
+            print(*row)
+
