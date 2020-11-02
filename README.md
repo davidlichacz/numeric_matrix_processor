@@ -1,4 +1,4 @@
-# numeric_matrix_processor
+# Numeric Matrix Processor
 
 Matrices have a wide range of applications in programming: they're used for digital image processing, graph representation and algorithms on a graph, graphic effects, applied math, statistics, and much more.
 
